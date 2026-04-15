@@ -122,6 +122,14 @@ Override the location with the `TRANSCRIPTS_DIR` env variable.
 
 ---
 
+## Legal Notice
+
+Recording laws vary by jurisdiction. Most U.S. states are **one-party consent** — meaning you can record any conversation you're a participant in without notifying others. Some states (California, Florida, Illinois, and others) require **all-party consent**.
+
+This tool records audio locally on your machine. You are responsible for ensuring your use complies with applicable laws in your state and country. When in doubt, disclose that you're recording or consult a legal professional.
+
+---
+
 ## Roadmap
 
 - [ ] Mac/Linux audio capture support
